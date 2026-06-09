@@ -3,7 +3,7 @@
 A static awareness webpage created for the InAmigos Foundation NGO as part of the intern task.
 
 ## 🌐 Live Demo
-[Click here to view](https://yourusername.github.io/inamigos-foundation)
+[Click here to view](https://nandana1311.github.io/InAmigos-Foundation-Awareness-Webpage/)
 
 ## 📋 About the Project
 This webpage was built to spread awareness about InAmigos Foundation's projects and initiatives. It includes:
